@@ -16,12 +16,13 @@ Supabase: Plataforma de backend como servicio (BaaS) que ofrece autenticación, 
 
 Firebase (opcional): Dependiendo de la implementación, puede usarse para notificaciones o funciones adicionales.
 
-<img width="307" height="586" alt="1" src="https://github.com/user-attachments/assets/f474cf55-318d-4f8b-bef6-1755001fa9f3" />
-<img width="289" height="576" alt="2" src="https://github.com/user-attachments/assets/733b6f01-c95c-490c-9783-b0098a4e2ae8" />
-<img width="310" height="577" alt="3" src="https://github.com/user-attachments/assets/db38b25a-12ff-4e5c-99c3-ab069bca5c52" />
-<img width="284" height="563" alt="4" src="https://github.com/user-attachments/assets/860ca712-db19-42e8-8870-132ee557c342" />
-<img width="283" height="565" alt="5" src="https://github.com/user-attachments/assets/83532748-7328-4a08-a59f-3ca9dd2460df" />
-<img width="322" height="577" alt="6" src="https://github.com/user-attachments/assets/be65f778-5392-4066-87cb-2a1bff70b244" />
-<img width="303" height="569" alt="7" src="https://github.com/user-attachments/assets/c2b2f948-8d52-4ad2-b6b7-97176a71ad14" />
-<img width="277" height="564" alt="8" src="https://github.com/user-attachments/assets/040627e5-e517-4998-9b2c-26e73bdcdb24" />
-<img width="276" height="559" alt="9" src="https://github.com/user-attachments/assets/1dee6b7d-03ba-409e-b461-fe5471078d1e" />
+<img width="287" height="569" alt="1" src="https://github.com/user-attachments/assets/d37604e0-c9f5-4ffa-8a9a-ec0088ff4daf" />
+<img width="289" height="576" alt="2" src="https://github.com/user-attachments/assets/090101c5-2667-4182-a44a-52259b7703d9" />
+<img width="290" height="577" alt="3" src="https://github.com/user-attachments/assets/bb56b870-ca00-449f-88e3-c15ec5184ed1" />
+<img width="284" height="563" alt="4" src="https://github.com/user-attachments/assets/2de30526-82ff-4111-a7b5-face8e68f7e6" />
+<img width="283" height="565" alt="5" src="https://github.com/user-attachments/assets/c708b112-1032-45ce-973d-cb5867e36e7d" />
+<img width="287" height="577" alt="6" src="https://github.com/user-attachments/assets/1d8177f8-4b6e-40fd-bcdd-aaca068f02f2" />
+<img width="290" height="569" alt="7" src="https://github.com/user-attachments/assets/2ad05dee-efee-443b-9b92-bd4ce22b6cf2" />
+<img width="277" height="564" alt="8" src="https://github.com/user-attachments/assets/6fa28055-bde3-489b-852d-e562731236ea" />
+<img width="276" height="559" alt="9" src="https://github.com/user-attachments/assets/e4e026fb-28de-480b-9eae-d0d10633a5dc" />
+
