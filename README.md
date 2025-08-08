@@ -1,5 +1,5 @@
 # proyecto-gauss
-FlutterFlow & Supabase Integration Project
+FlutterFlow & Supabase Integration Project<br>
 Este proyecto tiene como objetivo la integración de FlutterFlow con Supabase para crear una aplicación móvil interactiva con gestión de usuarios. El flujo de trabajo principal implica el registro de nuevos usuarios, cuya información es almacenada en una base de datos Supabase en tiempo real.
 
 Características
